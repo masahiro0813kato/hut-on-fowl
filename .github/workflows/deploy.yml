@@ -25,4 +25,4 @@ jobs:
                   SSH_PORT: 8022
                   SSH_USER: c7986191
                   SSH_HOST: www264.conoha.ne.jp
-                  SSH_DIR: /home/c7986191/public_html/hut-on-fowl.com/wp-content
+                  SSH_DIR: ~/public_html/hut-on-fowl.com/wp-content
